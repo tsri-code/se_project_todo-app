@@ -26,4 +26,4 @@ The project follows Object-Oriented Programming principles with ES6 classes. Eac
 
 ## Deployment
 
-This project is deployed on GitHub Pages:
+This project is deployed on GitHub Pages: https://tsri-code.github.io/se_project_todo-app/
