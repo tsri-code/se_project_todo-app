@@ -73,8 +73,8 @@ class FormValidator {
       this._hideInputError(inputElement);
     });
 
-    this._toggleButtonState();
     this._formElement.reset();
+    this._toggleButtonState();
   }
 
   enableValidation() {
